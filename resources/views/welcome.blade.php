@@ -5,7 +5,11 @@
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
+<<<<<<< HEAD
         <title>AiParty - We love party!</title>
+=======
+        <title>AiParty - We love to go to party!</title>
+>>>>>>> 7764e64af78b4cad2ca17ddef2eccd7a49d00045
 
         <!-- Fonts -->
         <link href="https://fonts.googleapis.com/css?family=Raleway:100,600" rel="stylesheet" type="text/css">
